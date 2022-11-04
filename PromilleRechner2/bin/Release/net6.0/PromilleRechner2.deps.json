@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PromilleRechner2/1.0.0": {
+        "runtime": {
+          "PromilleRechner2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PromilleRechner2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

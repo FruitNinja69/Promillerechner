@@ -1,0 +1,30 @@
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\bin\Debug\net6.0\PromilleRechner2.exe
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\bin\Debug\net6.0\PromilleRechner2.deps.json
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\bin\Debug\net6.0\PromilleRechner2.runtimeconfig.json
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\bin\Debug\net6.0\PromilleRechner2.dll
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\bin\Debug\net6.0\PromilleRechner2.pdb
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\PromilleRechner2.csproj.AssemblyReference.cache
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\PromilleRechner2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\PromilleRechner2.AssemblyInfoInputs.cache
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\PromilleRechner2.AssemblyInfo.cs
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\PromilleRechner2.csproj.CoreCompileInputs.cache
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\PromilleRechner2.dll
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\refint\PromilleRechner2.dll
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\PromilleRechner2.pdb
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\PromilleRechner2.genruntimeconfig.cache
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\ref\PromilleRechner2.dll
+C:\Users\Thikal\OneDrive - Kantonsschule Baden\Desktop\Neuer Ordner (3)\PromilleRechner2\PromilleRechner2\bin\Debug\net6.0\PromilleRechner2.exe
+C:\Users\Thikal\OneDrive - Kantonsschule Baden\Desktop\Neuer Ordner (3)\PromilleRechner2\PromilleRechner2\bin\Debug\net6.0\PromilleRechner2.deps.json
+C:\Users\Thikal\OneDrive - Kantonsschule Baden\Desktop\Neuer Ordner (3)\PromilleRechner2\PromilleRechner2\bin\Debug\net6.0\PromilleRechner2.runtimeconfig.json
+C:\Users\Thikal\OneDrive - Kantonsschule Baden\Desktop\Neuer Ordner (3)\PromilleRechner2\PromilleRechner2\bin\Debug\net6.0\PromilleRechner2.dll
+C:\Users\Thikal\OneDrive - Kantonsschule Baden\Desktop\Neuer Ordner (3)\PromilleRechner2\PromilleRechner2\bin\Debug\net6.0\PromilleRechner2.pdb
+C:\Users\Thikal\OneDrive - Kantonsschule Baden\Desktop\Neuer Ordner (3)\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\PromilleRechner2.csproj.AssemblyReference.cache
+C:\Users\Thikal\OneDrive - Kantonsschule Baden\Desktop\Neuer Ordner (3)\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\PromilleRechner2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thikal\OneDrive - Kantonsschule Baden\Desktop\Neuer Ordner (3)\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\PromilleRechner2.AssemblyInfoInputs.cache
+C:\Users\Thikal\OneDrive - Kantonsschule Baden\Desktop\Neuer Ordner (3)\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\PromilleRechner2.AssemblyInfo.cs
+C:\Users\Thikal\OneDrive - Kantonsschule Baden\Desktop\Neuer Ordner (3)\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\PromilleRechner2.csproj.CoreCompileInputs.cache
+C:\Users\Thikal\OneDrive - Kantonsschule Baden\Desktop\Neuer Ordner (3)\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\PromilleRechner2.dll
+C:\Users\Thikal\OneDrive - Kantonsschule Baden\Desktop\Neuer Ordner (3)\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\refint\PromilleRechner2.dll
+C:\Users\Thikal\OneDrive - Kantonsschule Baden\Desktop\Neuer Ordner (3)\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\PromilleRechner2.pdb
+C:\Users\Thikal\OneDrive - Kantonsschule Baden\Desktop\Neuer Ordner (3)\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\PromilleRechner2.genruntimeconfig.cache
+C:\Users\Thikal\OneDrive - Kantonsschule Baden\Desktop\Neuer Ordner (3)\PromilleRechner2\PromilleRechner2\obj\Debug\net6.0\ref\PromilleRechner2.dll

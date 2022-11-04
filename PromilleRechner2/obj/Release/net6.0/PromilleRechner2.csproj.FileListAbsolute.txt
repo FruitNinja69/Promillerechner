@@ -1,0 +1,15 @@
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\bin\Release\net6.0\PromilleRechner2.exe
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\bin\Release\net6.0\PromilleRechner2.deps.json
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\bin\Release\net6.0\PromilleRechner2.runtimeconfig.json
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\bin\Release\net6.0\PromilleRechner2.dll
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\bin\Release\net6.0\PromilleRechner2.pdb
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Release\net6.0\PromilleRechner2.csproj.AssemblyReference.cache
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Release\net6.0\PromilleRechner2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Release\net6.0\PromilleRechner2.AssemblyInfoInputs.cache
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Release\net6.0\PromilleRechner2.AssemblyInfo.cs
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Release\net6.0\PromilleRechner2.csproj.CoreCompileInputs.cache
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Release\net6.0\PromilleRechner2.dll
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Release\net6.0\refint\PromilleRechner2.dll
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Release\net6.0\PromilleRechner2.pdb
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Release\net6.0\PromilleRechner2.genruntimeconfig.cache
+D:\Dateien\Schule\BBB\320\Projekte\PromilleRechner2\PromilleRechner2\obj\Release\net6.0\ref\PromilleRechner2.dll
